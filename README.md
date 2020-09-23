@@ -1,4 +1,4 @@
-<img src="\Assets\10-OOP-homework-demo-1.png" alt="screenshot of deployed app"/>
+
 
 
 # Unit 10 OOP Homework: Template Engine - Employee Summary
